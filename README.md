@@ -7,6 +7,8 @@ Some description!
 
 Watch tutorial on youtube.
 
-## LOcal Development
+## Local Development
 
 1. Open index.html in your browser
+
+2. Carpe diem
